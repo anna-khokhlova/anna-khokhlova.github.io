@@ -18,7 +18,6 @@ The words of which the initial letter is capitalized have meanings defined under
 
 - **Application** refers to SuperMum, the software program provided by the Company.
 - **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to SuperMum.
-- **Country** refers to: Hungary
 - **Device** means any device that can access the Application such as a mobile phone or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.
 - **You** means the individual accessing or using the Application, or the company, or other legal entity on behalf of which such individual is accessing or using the Application, as applicable.
