@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy Policy for SuperMum"
 permalink: /privacy_policy
+---
 
 # Privacy Policy
 
